@@ -1,0 +1,50 @@
+       
+body {
+    color: #383838; 
+    background-color: #fff; 
+    margin-right: 12rem; 
+    margin-left: 12rem;
+}
+
+.main{
+    color:#383838; 
+    font-weight: 400; 
+    font-size: 14px; 
+    font-family: menlo,meslo lg,monospace; 
+    line-height: 1.725; 
+    text-rendering: geometricPrecision; 
+    text-align: justify;
+}
+
+.d--button{
+    height: 35px; 
+    width: 10rem; 
+    border-radius: 9999px; 
+    background-color: rgb(255, 66, 77); 
+    border: 1px solid rgb(255, 66, 77); 
+    box-sizing: border-box; 
+    cursor: pointer; 
+    display: inline-flex; 
+    font-weight: 500; 
+    padding: 0.5rem 1rem; 
+    position: relative; 
+    text-decoration: none; 
+    color: rgb(255,255, 255); 
+    font-size: 0.875rem;
+}
+
+.footer{
+    margin-top: 60px;
+    color: #666;
+    font-size: 11px;
+    font-weight: 400;
+}
+
+.hack--main{
+    margin-right: 12rem;
+    margin-left: 12rem;
+}
+
+#hack{
+   text-align: center;
+}
